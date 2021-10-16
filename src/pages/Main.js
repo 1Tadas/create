@@ -3,15 +3,6 @@ import React from 'react';
 
 
 export default function Main() {
-
-  const showPicture = () => {
-  var sourceOfPicture = "https://assets.codepen.io/5313250/tadascvnew.pdf";
-  var img = document.getElementById('bigpic')
-  img.src = sourceOfPicture.replace('300x300', '225x225');
-  img.style.display = "block";
-} 
-
-
  
   return (
     <>
