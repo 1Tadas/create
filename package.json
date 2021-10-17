@@ -1,6 +1,6 @@
 {
   "name": "create",
-  "homepage": "http://1Tadas.github.io/create",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
